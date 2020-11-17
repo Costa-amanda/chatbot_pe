@@ -1,0 +1,11 @@
+bedrooms:3.0 4.0 
+bathrooms:1.5 2.5 
+sqft_living:1375.0 2902.5 
+sqft_lot:9858.0 50665.0 
+floors:1.0 2.0 
+waterfront:0.0 0.0 
+view:0.0 0.0 
+condition:3.0 4.0 
+grade:7.0 8.0 
+sqft_above:1300.0 2675.0 
+sqft_basement:0.0 0.0 
