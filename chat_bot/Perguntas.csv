@@ -1,6 +1,6 @@
-ID;Pergunta;A;Nó A;B;Nó B
-1;Boa circulação?;SIM;2;NÃO;3
-2;Artérias bloqueadas?;SIM;4;NÃO;5
+ID;Pergunta;A;Nó A;B;Nó B;Atributo;Referência
+1;Qual a qualidade dos componentes?;True;2;False;3;grade;1.5
+2;Qual a quantidade de banheiros?;SIM;4;NÃO;5;bathrooms;1.5
 3;Dor no peito?;SIM;6;NÃO;7
 4;Dor no peito?;SIM;8;NÃO;9
 5;NÓ FOLHA;Média propensão à doenças cardíacas;;;
