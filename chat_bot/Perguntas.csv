@@ -1,12 +1,62 @@
 ID;Pergunta;A;Nó A;B;Nó B;Atributo;Referência
-1;Qual a qualidade dos componentes?;True;2;False;3;grade;1.5
-2;Qual a quantidade de banheiros?;SIM;4;NÃO;5;bathrooms;1.5
-3;Dor no peito?;SIM;6;NÃO;7
-4;Dor no peito?;SIM;8;NÃO;9
-5;NÓ FOLHA;Média propensão à doenças cardíacas;;;
-6;NÓ FOLHA;Alta propensão à doenças cardíacas;;;
-7;Artérias bloqueadas?;SIM;10;NÃO;11
-8;NÓ FOLHA;Média propensão à doenças cardíacas;;;
-9;NÓ FOLHA;Baixa propensão à doenças cardíacas;;;
-10;NÓ FOLHA;Baixa propensão à doenças cardíacas;;;
-11;NÓ FOLHA;Baixa propensão à doenças cardíacas;;;
+1;Qual a nota do imóvel?;True;2;False;3;grade;1.5
+2;Qual a quantidade de banheiros?;True;4;False;5;bathrooms;1.5
+3;Qual a área construida acima do solo?;True;6;False;7;sqft_above;1.5
+4;Qual o número de andares?;True;8;False;9;floors;0.5
+5;Qual a área do lote?;True;10;False;11;sqft_lot;1.0
+6;NÓ FOLHA;Imóvel Caro;;;;;
+7;Qual a qualidade da vista?;True;12;False;13;view;1.0
+8;Qual a área do porão?;True;14;False;15;sqft_basement;1.0
+9;Qual o número de quartos?;True;16;False;17;bedrooms;1.5
+10;Qual a área construida acima do solo?;True;18;False;19;sqft_above;0.5
+11;Qual o número de andares?;True;20;False;21;floors;1.5
+12;NÓ FOLHA;Imóvel na Média;;;;;
+13;Qual a área construída?;True;22;False;23;sqft_living;1.5
+14;Qual a condição do imóvel?;True;24;False;25;condition;1.0
+15;Qual a quantidade de banheiros?;True;26;False;27;bathrooms;0.5
+16;Qual a área do lote?;True;28;False;29;sqft_lot;1.5
+17;NÓ FOLHA;Imóvel Barato;;;;;
+18;NÓ FOLHA;Imóvel Barato;;;;;
+19;Qual a área construída?;True;30;False;31;sqft_living;0.5
+20;Qual a área construída?;True;32;False;33;sqft_living;1.0
+21;NÓ FOLHA;Imóvel Caro;;;;;
+22;NÓ FOLHA;Imóvel na Média;;;;;
+23;NÓ FOLHA;Imóvel Barato;;;;;
+24;Qual a área construída?;True;34;False;35;sqft_living;0.5
+25;Qual a quantidade de banheiros?;True;36;False;37;bathrooms;0.5
+26;Qual a área construída?;True;38;False;39;sqft_living;0.5
+27;NÓ FOLHA;Imóvel Barato;;;;;
+28;Qual a nota do imóvel?;True;40;False;41;grade;0.5
+29;NÓ FOLHA;Imóvel Caro;;;;;
+30;NÓ FOLHA;Imóvel na Média;;;;;
+31;NÓ FOLHA;Imóvel Barato;;;;;
+32;NÓ FOLHA;Imóvel na Média;;;;;
+33;NÓ FOLHA;Imóvel Barato;;;;;
+34;Qual a nota do imóvel?;True;42;False;43;grade;0.5
+35;NÓ FOLHA;Imóvel Caro;;;;;
+36;Qual o número de quartos?;True;44;False;45;bedrooms;1.5
+37;NÓ FOLHA;Imóvel Barato;;;;;
+38;Qual o número de quartos?;True;46;False;47;bedrooms;0.5
+39;NÓ FOLHA;Imóvel Caro;;;;;
+40;NÓ FOLHA;Imóvel Barato;;;;;
+41;Qual o número de quartos?;True;48;False;49;bedrooms;0.5
+42;Qual o número de quartos?;True;50;False;51;bedrooms;0.5
+43;NÓ FOLHA;Imóvel na Média;;;;;
+44;Qual o número de quartos?;True;52;False;53;bedrooms;0.5
+45;NÓ FOLHA;Imóvel Barato;;;;;
+46;NÓ FOLHA;Imóvel Caro;;;;;
+47;NÓ FOLHA;Imóvel Barato;;;;;
+48;NÓ FOLHA;Imóvel Caro;;;;;
+49;Qual a área do lote?;True;54;False;55;sqft_lot;0.5
+50;NÓ FOLHA;Imóvel na Média;;;;;
+51;NÓ FOLHA;Imóvel Barato;;;;;
+52;NÓ FOLHA;Imóvel Caro;;;;;
+53;Qual a área construida acima do solo?;True;56;False;57;sqft_above;0.5
+54;Qual a área construída?;True;58;False;59;sqft_living;1.5
+55;NÓ FOLHA;Imóvel Barato;;;;;
+56;Qual a área do lote?;True;60;False;61;sqft_lot;1.0
+57;NÓ FOLHA;Imóvel Caro;;;;;
+58;NÓ FOLHA;Imóvel Caro;;;;;
+59;NÓ FOLHA;Imóvel Barato;;;;;
+60;NÓ FOLHA;Imóvel na Média;;;;;
+61;NÓ FOLHA;Imóvel Caro;;;;;
