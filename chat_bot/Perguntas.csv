@@ -1,4 +1,4 @@
-ID;Pergunta;A;Nó A;B;Nó B;Atributo;Referência
+ID;Pergunta;A;Nó A;B;Nó B;Atributo;Referencia
 1;Qual a nota do imóvel?;True;2;False;3;grade;1.5
 2;Qual a quantidade de banheiros?;True;4;False;5;bathrooms;1.5
 3;Qual a área construida acima do solo?;True;6;False;7;sqft_above;1.5
